@@ -3,7 +3,7 @@
 Windows 和 macOS 客户软件发布仓库。请到 [Releases](https://github.com/smallannsen-droid/20231105/releases) 下载对应版本。
 
 - **Windows**：Windows 10/11 x64。ZIP 同时包含正式安装器和可直接运行的便携目录。缺少 WebView2 时，安装器将调用微软官方引导程序安装。
-- **M 系列 Mac 修复版 v2.0.1**：macOS 15 或更新，ARM64 原生 App。ZIP 包含固定安装到 `/Applications/PageForge.app` 的 PKG 安装器及便携 App 压缩包，无需 Python。已在 macOS 26.6.2 验证安装及 Finder 启动。M 系列用户请优先下载此版本。
+- **M 系列 Mac 更新版 v2.0.2**：macOS 15 或更新，ARM64 原生 App。修复关闭确认卡住及退出后进程残留，支持多次取消关闭。ZIP 包含固定安装到 `/Applications/PageForge.app` 的 PKG 安装器及便携 App 压缩包，无需 Python。已在 macOS 15、26 验证安装后功能及退出。M 系列用户请优先下载此版本。
 - 界面支持中文、日文、英文；主要功能包括页面整理、文字编辑、批注、图片移动缩放、导出转换、水印、页码、书签、密码保护和撤销重做。
 
 压缩包解压信息由提供方单独告知。本仓库不公开项目源码或解压凭据。
